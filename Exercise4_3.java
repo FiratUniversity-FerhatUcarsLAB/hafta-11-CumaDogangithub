@@ -1,3 +1,7 @@
+/*Ad: Cuma
+Soyad: Doğan
+Öğrenci no: 250542003
+ */
 public class Exercise4_3 {
 
     public static void zoop() {
